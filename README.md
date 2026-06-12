@@ -35,3 +35,4 @@ Firebase 환경변수가 없으면 브라우저 로컬 저장소를 사용하는
 ## 배포
 
 GitHub 저장소에 올린 뒤 Vercel에서 저장소를 연결하고 Firebase 환경변수를 등록합니다. 빌드 명령은 `npm run build`, 출력 폴더는 `dist`입니다.
+Vercel 배포
